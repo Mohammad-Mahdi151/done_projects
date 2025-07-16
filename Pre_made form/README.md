@@ -2,8 +2,8 @@
 A simple pre-made form to save a little amount of time while programming a dynamic site.
 
 ## Contents 
-- How to use:[#Use]
-- Important points[#Points]
+- How to use
+- Important points
 ## Use
 1. Just Install this file from my github reposity.
 2. The main part is the css file.
